@@ -1,0 +1,56 @@
+﻿Restoring packages for C:\Users\Samdoss\Desktop\Roger\FinalProject\CS\SerialSample.csproj...
+  GET https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/index.json
+  OK https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/index.json 1104ms
+  GET https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/4.3.0/system.data.sqlclient.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/4.3.0/system.data.sqlclient.4.3.0.nupkg 982ms
+  GET https://api.nuget.org/v3-flatcontainer/runtime.native.system.data.sqlclient.sni/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.io.pipes/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.net.security/index.json
+  OK https://api.nuget.org/v3-flatcontainer/runtime.native.system.data.sqlclient.sni/index.json 1082ms
+  GET https://api.nuget.org/v3-flatcontainer/runtime.native.system.data.sqlclient.sni/4.3.0/runtime.native.system.data.sqlclient.sni.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.io.pipes/index.json 1066ms
+  GET https://api.nuget.org/v3-flatcontainer/system.security.principal/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.io.pipes/4.3.0/system.io.pipes.4.3.0.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/index.json
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.threadpool/index.json
+  OK https://api.nuget.org/v3-flatcontainer/system.net.security/index.json 1698ms
+  GET https://api.nuget.org/v3-flatcontainer/system.net.security/4.3.0/system.net.security.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.security.principal/index.json 985ms
+  GET https://api.nuget.org/v3-flatcontainer/system.security.principal/4.3.0/system.security.principal.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/runtime.native.system.data.sqlclient.sni/4.3.0/runtime.native.system.data.sqlclient.sni.4.3.0.nupkg 1943ms
+  GET https://api.nuget.org/v3-flatcontainer/runtime.win7-x64.runtime.native.system.data.sqlclient.sni/index.json
+  GET https://api.nuget.org/v3-flatcontainer/runtime.win7-x86.runtime.native.system.data.sqlclient.sni/index.json
+  OK https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/index.json 1988ms
+  GET https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.3.0/system.security.principal.windows.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.io.pipes/4.3.0/system.io.pipes.4.3.0.nupkg 2750ms
+  OK https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/index.json 2976ms
+  GET https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.3.0/system.text.encoding.codepages.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.threadpool/index.json 3994ms
+  OK https://api.nuget.org/v3-flatcontainer/system.security.principal/4.3.0/system.security.principal.4.3.0.nupkg 3050ms
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.threadpool/4.3.0/system.threading.threadpool.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.net.security/4.3.0/system.net.security.4.3.0.nupkg 4484ms
+  OK https://api.nuget.org/v3-flatcontainer/runtime.win7-x86.runtime.native.system.data.sqlclient.sni/index.json 3796ms
+  GET https://api.nuget.org/v3-flatcontainer/runtime.win7-x86.runtime.native.system.data.sqlclient.sni/4.3.0/runtime.win7-x86.runtime.native.system.data.sqlclient.sni.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.security.principal.windows/4.3.0/system.security.principal.windows.4.3.0.nupkg 4549ms
+  GET https://api.nuget.org/v3-flatcontainer/system.security.claims/index.json
+  OK https://api.nuget.org/v3-flatcontainer/runtime.win7-x64.runtime.native.system.data.sqlclient.sni/index.json 4989ms
+  GET https://api.nuget.org/v3-flatcontainer/runtime.win7-x64.runtime.native.system.data.sqlclient.sni/4.3.0/runtime.win7-x64.runtime.native.system.data.sqlclient.sni.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.threadpool/4.3.0/system.threading.threadpool.4.3.0.nupkg 3441ms
+  OK https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.3.0/system.text.encoding.codepages.4.3.0.nupkg 4715ms
+  OK https://api.nuget.org/v3-flatcontainer/system.security.claims/index.json 2048ms
+  GET https://api.nuget.org/v3-flatcontainer/system.security.claims/4.3.0/system.security.claims.4.3.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/runtime.win7-x86.runtime.native.system.data.sqlclient.sni/4.3.0/runtime.win7-x86.runtime.native.system.data.sqlclient.sni.4.3.0.nupkg 3339ms
+  OK https://api.nuget.org/v3-flatcontainer/system.security.claims/4.3.0/system.security.claims.4.3.0.nupkg 975ms
+  OK https://api.nuget.org/v3-flatcontainer/runtime.win7-x64.runtime.native.system.data.sqlclient.sni/4.3.0/runtime.win7-x64.runtime.native.system.data.sqlclient.sni.4.3.0.nupkg 3318ms
+Installing runtime.win7-x64.runtime.native.System.Data.SqlClient.sni 4.3.0.
+Installing runtime.win7-x86.runtime.native.System.Data.SqlClient.sni 4.3.0.
+Installing System.Security.Claims 4.3.0.
+Installing runtime.native.System.Data.SqlClient.sni 4.3.0.
+Installing System.Security.Principal.Windows 4.3.0.
+Installing System.Text.Encoding.CodePages 4.3.0.
+Installing System.Threading.ThreadPool 4.3.0.
+Installing System.Net.Security 4.3.0.
+Installing System.Security.Principal 4.3.0.
+Installing System.IO.Pipes 4.3.0.
+Installing System.Data.SqlClient 4.3.0.

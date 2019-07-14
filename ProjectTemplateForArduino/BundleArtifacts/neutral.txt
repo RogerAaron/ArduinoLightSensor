@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ProjectTemplateForArduino\bin\AnyCPU\Debug\ProjectTemplateForArduino_1.1.2.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ProjectTemplateForArduino\AppPackages\ProjectTemplateForArduino_1.1.2.0_Debug_Test\ProjectTemplateForArduino_1.1.2.0_AnyCPU_Debug.appxsym
